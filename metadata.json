@@ -1,0 +1,11 @@
+{
+    "uuid": "calendar@akenejie",
+    "gettext-domain": "calendar@akenejie",
+    "name": "祝日を書式設定するカレンダー",
+    "description": "Enrico serviceのフォーク",
+    "max-instances": -1,
+    "version": "1.3.0",
+    "multiversion": true,
+    "author": "akenejie",
+    "last-edited": 1759980256
+}
